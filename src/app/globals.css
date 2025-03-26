@@ -23,7 +23,7 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: 'Junge', Arial, Helvetica, sans-serif; /* Updated to Junge */
+  font-family: 'Junge' sans-serif; /* Updated to Junge */
 }
 
 .hero-container {
